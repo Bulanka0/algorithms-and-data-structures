@@ -1,1 +1,1 @@
-# Algoritsm-and-datastraches
+# algorithms-and-data-structures
